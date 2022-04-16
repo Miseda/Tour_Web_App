@@ -1,0 +1,9 @@
+//Below are the instructions for running my website application//
+
+1. Firstly, import the wdp folder to your htdocs folder within you xampp folder(the folder name has to remain as "wdp" in order for the database to work).
+
+2. Run the setup.php file in your browser first in order to generate the database and appropriate tables that align with my website application.
+
+3. You have to sign up first, then log in in order to access the other pages.
+
+4. Enjoy the application.
